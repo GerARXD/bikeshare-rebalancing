@@ -1,0 +1,31 @@
+# --- Datos y manipulación ---
+pandas
+numpy
+
+# --- Base de datos ---
+psycopg2-binary
+sqlalchemy
+python-dotenv
+
+# --- Series de tiempo / ML ---
+scikit-learn
+statsmodels
+prophet
+xgboost
+lightgbm
+
+# --- Clustering (V2 - zonas caminables) ---
+geopy
+
+# --- Ingesta / requests ---
+requests
+
+# --- Dashboard ---
+streamlit
+plotly
+folium
+streamlit-folium
+
+# --- Notebooks ---
+jupyter
+ipykernel

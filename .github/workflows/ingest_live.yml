@@ -1,0 +1,5 @@
+# Cron cada ~5 min: snapshot del estado en vivo (GBFS)
+# Se completa en Fase 6
+name: ingest_live
+on:
+  workflow_dispatch: {}

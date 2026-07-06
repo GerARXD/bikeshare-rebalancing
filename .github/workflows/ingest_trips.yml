@@ -1,0 +1,5 @@
+# Cron mensual: descarga y carga el histórico de viajes
+# Se completa en Fase 6
+name: ingest_trips
+on:
+  workflow_dispatch: {}
